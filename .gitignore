@@ -1,45 +1,24 @@
 
 # Configuraciones de los servicios
-
 qbittorrent-config/
-
 radarr-config/
-
 sonarr-config/
-
 lidarr-config/
-
 bazarr-config/
-
 prowlarr-config/
-
 jellyfin-config/
-
 jellyseerr-config/
-
 jellyfin-cache/
-
-
+.env
 
 # Archivos del sistema
-
 .DS_Store
-
 Thumbs.db
 
-
-
 # Logs
-
 *.log
 
-
-
 # Archivos temporales o de backup
-
 *.bak
-
 *.tmp
-
 *~
-
